@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(15.10)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1534DF75-7DDA-4383-957A-0EA67BEBE6EB}|HomeTask(15.10)\\HomeTask(15.10).csproj|c:\\users\\xaqan\\desktop\\programming\\c#\\hometask(15.10)\\hometask(15.10)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534DF75-7DDA-4383-957A-0EA67BEBE6EB}|HomeTask(15.10)\\HomeTask(15.10).csproj|solutionrelative:hometask(15.10)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(15.10)\\HomeTask(15.10)\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTask(15.10)\\Program.cs",
+              "ToolTip": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(15.10)\\HomeTask(15.10)\\Program.cs",
+              "RelativeToolTip": "HomeTask(15.10)\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAowIsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:29:32.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

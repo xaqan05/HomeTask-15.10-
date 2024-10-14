@@ -1,0 +1,14 @@
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\bin\Debug\net8.0\HomeTask(15.10).exe
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\bin\Debug\net8.0\HomeTask(15.10).deps.json
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\bin\Debug\net8.0\HomeTask(15.10).runtimeconfig.json
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\bin\Debug\net8.0\HomeTask(15.10).dll
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\bin\Debug\net8.0\HomeTask(15.10).pdb
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\HomeTask(15.10).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\HomeTask(15.10).AssemblyInfoInputs.cache
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\HomeTask(15.10).AssemblyInfo.cs
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\HomeTask(15.10).csproj.CoreCompileInputs.cache
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\HomeTask(15.10).dll
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\refint\HomeTask(15.10).dll
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\HomeTask(15.10).pdb
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\HomeTask(15.10).genruntimeconfig.cache
+C:\Users\Xaqan\Desktop\Programming\C#\HomeTask(15.10)\HomeTask(15.10)\obj\Debug\net8.0\ref\HomeTask(15.10).dll
